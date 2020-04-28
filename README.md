@@ -41,7 +41,7 @@ Você deve usar o número de casas para decifrar o texto e atualizar o arquivo J
 
 Seu programa deve submeter o arquivo atualizado para correção via POST para a API:
 
-```json
+```
 https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=SEU_TOKEN
 ```
 
