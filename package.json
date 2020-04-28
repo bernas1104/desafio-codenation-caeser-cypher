@@ -1,0 +1,15 @@
+{
+  "name": "desafio-codenation-caeser-cypher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bernas1104/desafio-codenation-caeser-cypher",
+  "author": "Bernardo Costa Nascimento <bernardoc1104@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0",
+    "mz": "^2.7.0",
+    "node-fetch": "^2.6.0",
+    "sha1": "^1.1.1"
+  }
+}
